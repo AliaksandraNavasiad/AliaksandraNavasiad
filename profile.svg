@@ -85,7 +85,7 @@ ul.bl li::before{content:'→';color:#3fb950;font-size:11px;flex-shrink:0;font-f
 
   <div class="sh">impact at a glance</div>
   <div class="metrics">
-    <div class="metric"><div class="mv">5,200+</div><div class="ml">hours saved through automation across global teams</div></div>
+    <div class="metric"><div class="mv">8,120+</div><div class="ml">hours saved through automation across global teams</div></div>
     <div class="metric"><div class="mv">25+</div><div class="ml">countries impacted by data &amp; process standardisation</div></div>
     <div class="metric"><div class="mv">99%</div><div class="ml">processing time cut on key finance workflows (4h → 1min)</div></div>
   </div>
