@@ -96,8 +96,8 @@ ul.bl li::before{content:'→';color:#3fb950;font-size:11px;flex-shrink:0;font-f
       <ul class="bl">
         <li>Automation Specialist at <strong>Shell SBO</strong> · prev. IBM BTO</li>
         <li>Building end-to-end pipelines in Python &amp; Power Platform</li>
-        <li>Microsoft 365 Copilot official tester &amp; AI champion</li>
-        <li>VBA Academy founder — trained 50+ analysts</li>
+        <li>Microsoft 365 Copilot AI builder</li>
+        <li>VBA Academy founder — trained 50+ VBA-enabled process engineers</li>
         <li>Based in Cracow, Poland 🇵🇱</li>
       </ul>
     </div>
