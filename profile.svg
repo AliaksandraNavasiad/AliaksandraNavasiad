@@ -174,7 +174,7 @@ ul.bl li::before{content:'→';color:#3fb950;font-size:11px;flex-shrink:0;font-f
       <a class="cbtn" href="mailto:novosaleksandra@gmail.com">Email</a>
     </div>
   </div>
-  <div class="fq"><span>*</span> "Every manual step is a bug waiting to be automated."</div>
+  <div class="fq"><span>📖</span> "Every manual step is a bug waiting to be automated."</div>
 </div>
 </div>
 </foreignObject>
