@@ -69,7 +69,7 @@ ul.bl li::before{content:'→';color:#3fb950;font-size:11px;flex-shrink:0;font-f
     <div>
       <div class="greeting">hello, world</div>
       <h1>Aliaksandra <span>Navasiad</span></h1>
-      <div class="tagline"><strong>Automation &amp; Analytics Specialist</strong> · Turning painful manual processes into 0-click workflows.<br/>Python · Power Platform · VBA · SQL</div>
+      <div class="tagline"><strong>Automation &amp; Analytics Specialist</strong> · Turning painful manual processes into 0-click workflows.<br/>Python · Power Platform · VBA · SQL · AI</div>
       <div class="exp-bar">
         <span class="chip ch-yr">8+ years enterprise</span>
         <span class="ch-sep">·</span>
