@@ -134,7 +134,7 @@ ul.bl li::before{content:'→';color:#3fb950;font-size:11px;flex-shrink:0;font-f
       <span class="badge"><span class="ds" style="background:#217346"></span>VBA / Excel</span>
       <span class="badge"><span class="ds" style="background:#742774"></span>Copilot Studio</span>
       <span class="badge"><span class="ds" style="background:#0078d4"></span>Microsoft 365 Copilot</span>
-      <span class="badge"><span class="ds" style="background:#0078d4"></span>AI Prompts, Agents</span>
+      <span class="badge"><span class="ds" style="background:#0078d4"></span>AI Agents</span>
       <span class="badge">Workday Docs</span>
     </div>
     <div class="sg-label">programming &amp; data</div>
